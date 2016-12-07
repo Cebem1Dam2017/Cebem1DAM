@@ -1,6 +1,6 @@
 Añade una clase nueva que muestre:
 
-tu nombre por pantalla.
+Tu nombre por pantalla.
 
 Muestre el nº de letras que tiene tu nombre.
 
